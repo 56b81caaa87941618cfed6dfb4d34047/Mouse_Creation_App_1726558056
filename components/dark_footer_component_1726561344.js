@@ -8,7 +8,7 @@ INSTRUCTION: 5. The fifth column covers legal information such as the refund pol
 -->
 
 <template>
-  <footer id="footer-section-container">
+  <footer id="footer-section-container" style="min-height: 390px">
     <div class="max-w-6xl mx-auto px-4 sm:px-6 bg-gradient-to-br from-purple-600 to-pink-500 bg-opacity-30 backdrop-filter backdrop-blur-lg rounded-lg shadow-lg">
       <!-- Blocks -->
       <div class="grid sm:grid-cols-12 gap-8 py-8 md:py-12">
@@ -24,7 +24,7 @@ INSTRUCTION: 5. The fifth column covers legal information such as the refund pol
                   href="index.html"
                   aria-label="© 2023 MouseMaker. All rights reserved."
                 >
-                  <img src="./images/logo.svg" width="38" height="38" alt="Stellar" />
+                  <img src="https://makeinfinite-mentat-dev.azurewebsites.net/get_image/Mouse_Creation_App_1726558056/logo.svg" width="38" height="38" alt="Stellar" />
                 </a>
               </div>
               <div id="footer-copyright" class="text-sm text-white">
