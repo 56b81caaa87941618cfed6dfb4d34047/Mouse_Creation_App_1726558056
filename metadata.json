@@ -4,5 +4,6 @@
     "project_description": "an app for making the mouse",
     "creation_time": "2024-09-17 07:27:36.746398",
     "current_state": "The current state of the application has a navbar and a header",
-    "selected_starter_template_id": "landwind"
+    "selected_starter_template_id": "landwind",
+    "frontend_theme_prompt": "The image features a vivid and otherworldly landscape with a dominant color scheme of vibrant pinks, purples, and dark blues, creating a dreamlike and ethereal atmosphere. The style combines surreal, cosmic elements with imaginative landscapes, including a large glowing planet and smaller celestial bodies in a star-studded sky."
 }
