@@ -8,7 +8,7 @@ INSTRUCTION: 5. The fifth column covers legal information such as the refund pol
 -->
 
 <template>
-  <footer id="footer-section-container" style="min-height: 390px">
+  <footer id="footer-section-container" style="min-height: 470px" >
     <div class="max-w-6xl mx-auto px-4 sm:px-6 bg-gradient-to-br from-purple-600 to-pink-500 bg-opacity-30 backdrop-filter backdrop-blur-lg rounded-lg shadow-lg">
       <!-- Blocks -->
       <div class="grid sm:grid-cols-12 gap-8 py-8 md:py-12">
